@@ -3,8 +3,15 @@
 </p>
 <p>
   <h1 align="center"><b>Hello there, I'm Nitesh 👋</b></h1>
-</p>                                  
-[![Kaggle Badge](https://img.shields.io/badge/-Nitesh_Saini-e6e6e6?style=flat-square&logo=kaggle&link=https://www.kaggle.com/niteshsaini)](https://www.kaggle.com/niteshsaini)  [![Linkedin Badge](https://img.shields.io/badge/-Nitesh_Saini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamniteshhh/)](https://www.linkedin.com/in/iamniteshhh/)  [![Gmail Badge](https://img.shields.io/badge/-Nitesh.saini2402@outlook.com-0073cf?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:nitesh.saini2402@outlook.com)](mailto:nitesh.saini2402@outlook.com)  [![Website Badge](https://img.shields.io/badge/-Nitesh_Saini-e6e6e6?style=flat-square&logo=github&logoColor=black&link=https://iam-niteshhh.github.io/Portfolio/)](https://iam-niteshhh.github.io/Portfolio/)
+</p>    
+
+<p align="center">
+<br>
+<a href="https://www.kaggle.com/niteshsaini"><img src="https://img.shields.io/badge/-Nitesh_Saini-e6e6e6?style=flat-square&logo=kaggle" alt="Kaggle" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/iamniteshhh/" ><img src="https://img.shields.io/badge/-Nitesh_Saini-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
+<a href="mailto:nitesh.saini2402@outlook.com"><img src="https://img.shields.io/badge/-Nitesh.saini2402@outlook.com-0073cf?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Outlook" /></a>&nbsp;
+<a href="https://iam-niteshhh.github.io/Portfolio/"><img src="https://img.shields.io/badge/-Nitesh_Saini-e6e6e6?style=flat-square&logo=github&logoColor=black" alt="Portfolio"/></a>&nbsp;
+</p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About</i>
