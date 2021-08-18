@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align="center">
+  <img width="300" height="200" src="https://www.informatec.com/sites/default/files/image-seperator/machine-learning-separator-1.jpg>
+</p>
 
-<!--
-**iam-niteshhh/iam-niteshhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Kaggle Badge](https://img.shields.io/badge/-Nitesh_Saini-1ca0f1?style=flat-square&logo=kaggle&link=https://www.kaggle.com/niteshsaini)](https://www.kaggle.com/niteshsaini)  [![Linkedin Badge](https://img.shields.io/badge/-Nitesh_Saini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamniteshhh/)](https://www.linkedin.com/in/iamniteshhh/)  [![Gmail Badge](https://img.shields.io/badge/-Nitesh.saini2402@outlook.com-0073cf?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:nitesh.saini2402@outlook.com)](mailto:nitesh.saini2402@outlook.com)  [![Website Badge](https://img.shields.io/badge/-Nitesh_Saini-e6e6e6?style=flat-square&logo=github&logoColor=black&link=https://iam-niteshhh.github.io/Portfolio/)](https://iam-niteshhh.github.io/Portfolio/)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### <i>About</i>
 
-Here are some ideas to get you started:
+-  **Learning :** Data Science :zap: | Machine Learning :fire:| Deep Learning :fire:		
+-  **Languages :** Python, SQL, R, C
+-  **Hobbies :**  Music :headphones:
+-  **Fact :** We are here to create tomorrows 🛣:heart:
+<!--- -  **Organisation :** [name](link)-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img alt="Nitesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iam-niteshhh&show_icons=true&theme=radical">
+</p>
+
+<p align="center">
+  <img width="200" height="100" src="https://cdn-acpnj.nitrocdn.com/SDkrhncnWeetGsYGlzwaPnbfptfOeIKk/assets/static/optimized/rev-56afdb7/wp-content/uploads/2017/12/thank-you-.jpg">
+</p>
+
+-----
+Credits: [Nitesh Saini](https://github.com/iam-niteshhh)
